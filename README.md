@@ -6,3 +6,5 @@ Sally Lee 474941 seoyoun
 http://ec2-18-191-201-57.us-east-2.compute.amazonaws.com/~misschris98/login.php
 
 Creative portion: allow users to see number of likes on each story
+
+-5 points no CSRF tokens. -15 points no creative portion.
